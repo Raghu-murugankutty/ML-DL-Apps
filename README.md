@@ -7,7 +7,7 @@
 
 <hr>
 
-# Market Segmentation in Insurance | Streamlit Web App
+# Market Segmentation in Insurance | Streamlit Web App ([<img src="https://img.icons8.com/fluency/48/000000/code.png"/>](https://github.com/Raghu-murugankutty/customer-segmentation-app)):
 - `Streamlit application URL`: https://customer-segmmentation-app.onrender.com
 
 - `Streamlit application UI Interface screenshot`
